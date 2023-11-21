@@ -367,6 +367,11 @@ div:hover>h2 {
 }
 
 @media screen and (max-width: 600px) {
+
+    .text {
+        height: 80dvh;
+    }
+
     .text h1 {
         font-size: 4rem;
     }
