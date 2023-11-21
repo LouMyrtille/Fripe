@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+#accueil {
+    height: 100dvh;
+    width: 100%;
+}
+
 #vinyl {
     position: absolute;
     top: 0;
